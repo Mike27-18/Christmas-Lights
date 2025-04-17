@@ -2,7 +2,11 @@ package com.christmas;
 
 public class Lights{
 
-    public void TurnOnLights(){
+    public void TurnOn(CordinatePair cordinatePair){
 
+    }
+
+    public Light getLight(int row, int col){
+        return new Light();
     }
 }
