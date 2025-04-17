@@ -2,7 +2,7 @@ package com.christmas;
 
 public class Lights{
 
-    public void TurnOnLight(){
-        
+    public void TurnOnLights(){
+
     }
 }
