@@ -9,6 +9,6 @@ import java.beans.Transient;
 public class CordinateTest{
     @Test
     void MakeCordinatePair(){
-        CordinatePair pair = new CordinatePair();
+        CordinatePair pair = new CordinatePair(0, 0, 999, 999);
     }
 }
