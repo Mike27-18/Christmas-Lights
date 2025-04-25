@@ -6,7 +6,7 @@ public class CordinatePair{
     private int rightX;
     private int rightY;
 
-    private CordinatePair(int leftX, int leftY, int rightX, int rightY){
+    CordinatePair(int leftX, int leftY, int rightX, int rightY){
         this.leftX = leftX;
         this.leftY = leftY;
         this.rightX = rightX;
